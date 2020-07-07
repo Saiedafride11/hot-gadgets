@@ -50,7 +50,7 @@
 .card{
     border: none;
     border-radius: 20px;
-    box-shadow: 2px 2px 5px lightgray;
+    box-shadow: 5px 5px 10px lightgray;
     text-align: center;
 }
 
@@ -72,7 +72,7 @@
 }
 .cat{
     border-radius: 20px;
-    box-shadow: 2px 2px 5px lightgray;
+    box-shadow: 5px 5px 10px lightgray;
     padding: 50px 50px 20px 50px;
 }
 .cat-head{
